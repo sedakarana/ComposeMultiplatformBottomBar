@@ -1,5 +1,6 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
+
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
@@ -32,4 +33,4 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 
 ---
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…<img width="1125" height="968" alt="Ekran Resmi 2025-09-08 12 48 13" src="https://github.com/user-attachments/assets/a7338ef7-2e27-4166-9c3c-6c36bc00e016" />
